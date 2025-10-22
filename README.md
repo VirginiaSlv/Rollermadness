@@ -8,6 +8,12 @@ o projeto RollerMadness é um jogo Simples, realizado para particar uma atividad
 2.  **Criação da Fase 2:** Introdução de novos obstáculos.
 3.  **Sistema de Vitória:** Implementação de uma tela de Vitória ao concluir os objetivos da Fase 2.
 
+---
+
+## ⚙️ Configuração e Inicialização
+
+Para rodar o projeto corretamente, siga estas instruções no Unity Editor:
+
 ### 1. Configuração do Build Settings
 
 As duas fases do jogo são implementadas como cenas separadas.
