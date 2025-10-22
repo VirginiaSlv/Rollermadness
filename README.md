@@ -14,5 +14,6 @@ As duas fases do jogo são implementadas como cenas separadas.
 
 1.  Vá em **File** -> **Build Settings...**
 2.  Arraste as cenas `Fase1` e `Fase2`
+3.  Selecione a Fase1 e clique no botão para iniciar o jogo
 
 
