@@ -1,6 +1,6 @@
 # Rollermadness
 
-o projeto RollerMadness é um jogo Simples, realizado para praticar uma atividade acadêmica. 
+O projeto RollerMadness é um jogo Simples, realizado para praticar uma atividade acadêmica. 
 
 ## 🎯 Objetivo do Projeto
 
